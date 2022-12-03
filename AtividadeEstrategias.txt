@@ -1,0 +1,19 @@
+
+A startup EduDesign foi contratada pela escola Atena para desenvolver 
+uma solução tecnológica educacional.
+A gestora escolar relatou que precisa
+ de um aplicativo para gerenciar as notas dos estudantes e de uma 
+comunicação mais direta com os responsáveis pelos alunos.
+
+Seguindo as etapas do Design Thinking, a equipe da startup
+ desenvolveu um protótipo do aplicativo, mas não sabe se atende 
+às expectativas reais dos envolvidos.
+Quais estratégias você utilizaria para a solução deste desafio?
+
+
+O protótipo é exatamente para apresentar prospostas para a contrante
+e ouvir suas considerações para possíveis alterações que se fizerem necessárias antes do
+produto final ser desenvolvido.
+
+A partir da apresentção do protótipo pode-se captar as validações importantes para 
+continuidade do projeto.

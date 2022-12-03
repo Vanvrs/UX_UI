@@ -1,0 +1,17 @@
+Escolha uma ou mais tarefas que um usuário deve realizar 
+para testar um site, aplicativo ou plataforma. A partir disso, 
+analise o comportamento dele com a interface escolhida, considerando
+um dos elementos citados por Nielsen:
+
+- facilidade de aprendizado - O grau de facilidade de uso da interface;
+- eficiência de uso - A eficiência da interface permite que as pessoas realizem
+rapidamente seus objetivos
+- facilidade de memorização - Avalia se é fácil memorizar os caminhos para 
+realizar uma tarefa nesta interface;
+- erros - Analisa casos em que as pessoas cometem erros ao utilizar a 
+interface e qual é a severidade deles. Se é difícil de resolvê-los ou não;
+- satisfação - Observa se a interface é agradável.
+
+Utilizar o site para observar o grau de fidelidade de uso da interface.
+Solicitar que o usuário acesse determinada área da aplicação e repita a 
+operação mais de uma vez para para observar se há facilidade de memorização.

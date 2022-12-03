@@ -1,0 +1,25 @@
+O processo de design e desenvolvimento de novos produtos exige 
+abordagens que se adequem a determinados objetivos. Escreva as 
+principais diferenças entre um Minimum Viable Product (MVP) e um protótipo, 
+indicando as vantagens e desvantagens de cada.
+
+MVP:
+1)Utilizado para desenvolver e validar uma hipótese ou modelo de negócio.
+2)Foco criação e lançamento de produto no menor tempo possível para obter conhecimento
+validado pelo público. 
+3) É possível identificar as características necessárias para que um produto chegue ao mercado.
+4) Versão simplificada do produto final que resolve o problema proposto e pode ser utilizado pelo
+usuário final
+5) Permite criar um produto em um curto período de tempo e lancá-lo no mercado para a validação.
+6) Esforço menor em recursos e em desenvolvimento da empresa
+7) Validar hipóteses e identificar a aceitação do produto no mercado.
+8) Evita desperdícios de recursos
+9) Aumenta compreensão sobre o cliente
+10) Permite identificar as principais falhas e corrigi-las, aumentando a taxa de sucesso do produto.
+
+
+Protótipo:
+1) Consiste na execução de um produto;
+2) Testar até as mínimas características do produto
+3) As funcionalidades do produto ainda não estão disponíveis para serem utilizadas pelo cliente
+4) O foco do protótipo é testar a viabilidade técnica de um produto evitando despedício de tempo e recursos.

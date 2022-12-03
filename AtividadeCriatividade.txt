@@ -1,0 +1,12 @@
+Uma equipe de desenvolvedores precisa estilizar um novo produto,
+ mas os integrantes estão passando por um bloqueio criativo. 
+Esse momento se caracteriza quando as pessoas não conseguem 
+desenvolver uma nova ideia ou ter inspiração para algo.
+
+Quais ações são possíveis para superar este desafio?
+
+
+O bloqueio criativo ocorre e, para tanto, precisa-se estimular os devs. 
+Algumas opções são interessantes, por exemplo:
+reunir o time, tornar o ambiente descontraído, solicitar que o time anote ideias que tenham.
+Posteriormente, essas ideias podem ser melhor discutidas.
